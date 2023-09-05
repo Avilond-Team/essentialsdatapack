@@ -1,0 +1,1 @@
+spreadplayers ~ ~ 10 1000 false @s

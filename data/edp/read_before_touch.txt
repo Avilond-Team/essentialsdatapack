@@ -1,0 +1,5 @@
+This version is not obfuscated, and you can easily modify datapack
+BUT if you changed something and it dont work, please dont ask me, ok?
+
+Эта версия без обфускации, то есть её можно легко редактировать
+НО если вы измените что-то, и датапак перестанет работать - я тут не причем, хорошо?

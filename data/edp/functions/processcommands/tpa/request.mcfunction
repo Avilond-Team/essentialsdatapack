@@ -1,0 +1,2 @@
+scoreboard players operation @s tpaid = @s tpa
+tellraw @p ["",{"text":"\u041a \u0432\u0430\u043c \u0445\u043e\u0447\u0435\u0442 \u0442\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0438\u0433\u0440\u043e\u043a!\nID игрока: ","color":"dark_aqua"},{"score":{"name":"@s","objective":"id"},"color":"dark_aqua"},{"text":" \n"},{"text":"\u041f\u0440\u0438\u043d\u044f\u0442\u044c","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/trigger tpaccept"}},{"text":"\n "}]

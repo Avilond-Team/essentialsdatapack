@@ -1,0 +1,1 @@
+execute at @a if score @p id = @s s run tp @p @s 
