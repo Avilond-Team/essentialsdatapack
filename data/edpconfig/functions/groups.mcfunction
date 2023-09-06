@@ -6,6 +6,6 @@
 
 execute as @a[tag=edp.vip] run function edpconfig:group/vip
 execute as @a[tag=edp.mod] run function edpconfig:group/mod
-execute as @a[tag=edp.op] run function edpconfig:group/op
+execute as @a[tag=edp.admin] run function edpconfig:group/admin
 
 
